@@ -37,4 +37,4 @@ graph.json
 
 # Temporary files
 *.log
-*.tmp
+*.tmpgraphify-out/
